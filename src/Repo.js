@@ -44,7 +44,7 @@ function Repo({ repo }) {
 
 
 export const Wrapper = styled.div`
-    margin: 3rem 1rem;
+    margin: 1.5rem 1rem;
     overflow: hidden;
     
     .container{
