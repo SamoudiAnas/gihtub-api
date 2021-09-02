@@ -12,6 +12,11 @@ In this project, if have used the following libraries:*
   - Moment (to get the time interval from the date of the creation of the github repository)
   - Styled Components (this one isn't necessary. It is just my preference it keeps my code clean and organised)
 
+### Live preview
+
+The application is running live on Heroku server at:
+https://github-moststared-api.herokuapp.com
+
 ### How to run the code
  
  1- Download the repository files in zip format and then extract them
